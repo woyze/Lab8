@@ -7,7 +7,7 @@ using namespace std;
 
 void average(int n)
 {
-    int* arr; int sum = 0;
+    int* arr; double sum = 0;
     arr = new int[n];
 
     for (int i = 0; i < n; i++)
